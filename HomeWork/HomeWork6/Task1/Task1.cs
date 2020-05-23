@@ -17,6 +17,7 @@ namespace HomeWork.HomeWork6.Task1
     {
         Menu menuArray;
         double x, a, b;
+        string test;
         public override string nameTask => "Функции типа double (double,double).";
         public override string discription => "1. Изменить программу вывода функции так, чтобы можно было передавать функции типа double (double,double). " +
             "Продемонстрировать работу на функции с функцией a*x^2 и функцией a*sin(x). Для выхода введите пустой символ(Enter)";
