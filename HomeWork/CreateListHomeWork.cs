@@ -25,6 +25,7 @@ namespace HomeWork
             mainMenu.menuItems.Add("Домашняя работа 4", FillListHomeWork4);
             mainMenu.menuItems.Add("Домашняя работа 5", FillListHomeWork5);
             mainMenu.menuItems.Add("Домашняя работа 6", FillListHomeWork6);
+            mainMenu.menuItems.Add("Домашняя работа 7", FillListHomeWork7);
         }
     }
 }
